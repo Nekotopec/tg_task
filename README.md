@@ -53,8 +53,11 @@ ______
 
 
 ####Задача 1
+
 `python3 task_flatten.py`
+
 ####Задача 2
+
 ```
 python3 task_xml.py "<feed xml:lang='en'>                 
                 <title>
