@@ -43,7 +43,7 @@ ______
 
 ______
 
-## Запуск
+##Запуск
 
 1. Установка виртуального окружения.  
 `python3 -m venv venv`
@@ -52,11 +52,11 @@ ______
 `pip3 install -r requirements.txt`
 
 
-####Задача 1
+###Задача 1
 
 `python3 task_flatten.py`
 
-####Задача 2
+###Задача 2
 
 ```
 python3 task_xml.py "<feed xml:lang='en'>                 
